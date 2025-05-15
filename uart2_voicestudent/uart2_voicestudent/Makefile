@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := led
+PROJECT_NAME := uart
 
 include $(IDF_PATH)/make/project.mk
 
